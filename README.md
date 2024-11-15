@@ -15,7 +15,7 @@ I created this website to showcase my work. I’m always striving to create some
 Clone the project
 
 ```bash
-    git clone https://github.com/Jay-Raam/Dashboard-Orthoberry.git
+    git clone https://github.com/Jay-Raam/Dashboard.git
 ```
 
 Go to the project directory
