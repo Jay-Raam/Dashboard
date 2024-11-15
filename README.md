@@ -10,10 +10,6 @@ I created this website to showcase my work. I’m always striving to create some
 
 **Hosting:** Vercel.
 
-## Screenshots & Demo
-
-[View Live Demo](https://jayasriraam-dashboard-orthoberry.vercel.app/)
-
 ## Run Locally
 
 Clone the project
