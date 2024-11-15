@@ -63,7 +63,7 @@ const Home = () => {
           <Link to="/users">
             <Card
               imageSrc={Image003}
-              title="1384"
+              title="2300"
               subtitle="Patients"
               description="Added in the last month"
               bgColor="bg-card-bg"
@@ -73,7 +73,7 @@ const Home = () => {
           <Link to="/users">
             <Card
               imageSrc={Image004}
-              title="46"
+              title="97"
               subtitle="Wishlinks"
               description="Sent last month"
               bgColor="bg-card-two-bg"
